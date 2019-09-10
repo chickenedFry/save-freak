@@ -1,0 +1,5 @@
+name: save_freak
+
+dependencies:
+  watcher: ^0.9.7+12
+  intl: ^0.16.0
