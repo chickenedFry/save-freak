@@ -7,16 +7,10 @@
         {
             "name": "Dart",
             "program": "${file}",
-            "args": ["${file}"],
+            //"args": ["${file}"],
+            "args": ["main.dart"],
             "request": "launch",
             "type": "dart"
-        },
-        {
-            "name": "Production",
-            "program": "${file}",
-            "args": ["C:\\Users\\desper4do\\AppData\\Local\\GOG.com\\Galaxy\\Applications\\49987265717041704\\Storage\\Shared\\Files\\DDDA.sav"],
-            "request": "launch",
-            "type": "dart"
-        },
+        }
     ]
 }
