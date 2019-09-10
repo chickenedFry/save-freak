@@ -21,6 +21,8 @@ main(List<String> arguments) {
       .then((Directory directory) {
         stdout.writeln('Created todays backup directory');
       });
+  } else {
+    stdout.writeln('Found backup directory: ${rootBackupPath}');
   }
 
   var watcher = new FileWatcher(filePath);
