@@ -4,7 +4,7 @@ Insanely backups your game save files
 Primarly created for game Dragon's Dogma: Dark Arisen. It's save system is incredibly limited (only 1 save file!) thus making a hard time for even expierenced players avoid mistakes and some mistakes can cost you much like missing zones, important items, important NPCs and so on. But no more! With this little script you are not afraid of making crucial mistakes anymore and you even can experiment and try new risky things!
 
 # How to run (tested only for Dragon's Dogma: Dark Arisen from GOG!)
-* Download this repository in [ZIP format](archive/master.zip)
+* Download this repository in ZIP format
 * Extract and copy bin/ contents anywhere you want
 * Open for editing SaveFreak.bat. There you will see some various pre-defined save paths already (for Dragon's Dogma: Dark Arisen). Adjust paths to yours (If DDDA is installed via GOG this .bat file should work without any additional editing)
 * Double click on SaveFreak.bat, it will open black console window and will print some messages and will wait. Don't close it.
